@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\DattingApp_FinalApp.props" />
+</Project>

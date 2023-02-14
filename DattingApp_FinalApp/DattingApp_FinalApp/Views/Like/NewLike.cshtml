@@ -1,0 +1,21 @@
+﻿@model DattingApp_FinalApp.Models.LikeModel
+
+@{
+    ViewData["Title"] = "NewLike";
+}
+<body>
+<h1>NewLike</h1>
+
+<h4>LikeModel</h4>
+
+                <input type="submit" value="Create" class="btn btn-primary" />
+          
+
+
+    <a asp-action="Discover">Back to Discover Page</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+</body>

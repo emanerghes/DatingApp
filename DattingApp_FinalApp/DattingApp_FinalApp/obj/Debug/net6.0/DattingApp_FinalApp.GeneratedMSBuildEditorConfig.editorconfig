@@ -1,0 +1,137 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DattingApp_FinalApp
+build_property.RootNamespace = DattingApp_FinalApp
+build_property.ProjectDir = C:\Users\a\source\repos\DattingApp_FinalApp\DattingApp_FinalApp\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\a\source\repos\DattingApp_FinalApp\DattingApp_FinalApp
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/a/source/repos/DattingApp_FinalApp/DattingApp_FinalApp/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a/source/repos/DattingApp_FinalApp/DattingApp_FinalApp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a/source/repos/DattingApp_FinalApp/DattingApp_FinalApp/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a/source/repos/DattingApp_FinalApp/DattingApp_FinalApp/Views/Like/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlrZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a/source/repos/DattingApp_FinalApp/DattingApp_FinalApp/Views/Like/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlrZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a/source/repos/DattingApp_FinalApp/DattingApp_FinalApp/Views/Like/NewLike.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlrZVxOZXdMaWtlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a/source/repos/DattingApp_FinalApp/DattingApp_FinalApp/Views/Like/UserLikedPerson.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlrZVxVc2VyTGlrZWRQZXJzb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a/source/repos/DattingApp_FinalApp/DattingApp_FinalApp/Views/Match/GetFriendsPostFor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0Y2hcR2V0RnJpZW5kc1Bvc3RGb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a/source/repos/DattingApp_FinalApp/DattingApp_FinalApp/Views/Match/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0Y2hcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a/source/repos/DattingApp_FinalApp/DattingApp_FinalApp/Views/Match/ItsAMatch.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0Y2hcSXRzQU1hdGNoLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a/source/repos/DattingApp_FinalApp/DattingApp_FinalApp/Views/Match/NewLike.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0Y2hcTmV3TGlrZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a/source/repos/DattingApp_FinalApp/DattingApp_FinalApp/Views/Post/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a/source/repos/DattingApp_FinalApp/DattingApp_FinalApp/Views/Post/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a/source/repos/DattingApp_FinalApp/DattingApp_FinalApp/Views/Post/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a/source/repos/DattingApp_FinalApp/DattingApp_FinalApp/Views/Post/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a/source/repos/DattingApp_FinalApp/DattingApp_FinalApp/Views/Post/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a/source/repos/DattingApp_FinalApp/DattingApp_FinalApp/Views/Post/UserPost.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdFxVc2VyUG9zdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a/source/repos/DattingApp_FinalApp/DattingApp_FinalApp/Views/Profile/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a/source/repos/DattingApp_FinalApp/DattingApp_FinalApp/Views/Profile/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a/source/repos/DattingApp_FinalApp/DattingApp_FinalApp/Views/Profile/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a/source/repos/DattingApp_FinalApp/DattingApp_FinalApp/Views/Profile/Discover.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZVxEaXNjb3Zlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a/source/repos/DattingApp_FinalApp/DattingApp_FinalApp/Views/Profile/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a/source/repos/DattingApp_FinalApp/DattingApp_FinalApp/Views/Profile/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a/source/repos/DattingApp_FinalApp/DattingApp_FinalApp/Views/Profile/UserDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZVxVc2VyRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a/source/repos/DattingApp_FinalApp/DattingApp_FinalApp/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a/source/repos/DattingApp_FinalApp/DattingApp_FinalApp/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a/source/repos/DattingApp_FinalApp/DattingApp_FinalApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a/source/repos/DattingApp_FinalApp/DattingApp_FinalApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a/source/repos/DattingApp_FinalApp/DattingApp_FinalApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/a/source/repos/DattingApp_FinalApp/DattingApp_FinalApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-f7h4xltsfc

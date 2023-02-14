@@ -1,0 +1,76 @@
+﻿@model IEnumerable<DattingApp_FinalApp.Models.PostModel>
+
+@{
+    ViewData["Title"] = "UserPost";
+}
+<style>
+span.a {
+  display: inline; /* the default for span */
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+  border: 1px solid blue;
+  background-color: yellow;
+}
+
+span.b {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+  border: 1px solid blue;
+  background-color: yellow;
+}
+
+span.c {
+  display: block;
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+  border: 1px solid blue;
+  background-color: yellow;
+}
+</style>
+<body>
+<h1>UserPost</h1>
+
+<p>
+    <a asp-action="Create">Create a new post</a>
+</p>
+<table class="table">
+ 
+    <tbody>
+
+@foreach (var item in Model)
+{
+
+            <div style="  display: inline-block;
+  width: 300px;
+  height: 300px;
+  padding: 10px;
+  border: 1px solid red;
+  background-color: floralwhite;
+  margin-right: 14px;
+  color: deeppink;  
+">
+
+
+                <div>
+
+                    @Html.DisplayFor(modelItem => item.About)
+                    <img class="rounded-circle" src="@item.Photo"  style="max-width: 250px" /></div>
+                  
+                 
+                 
+         
+           
+           
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> 
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            
+            </div>
+     }
+    </tbody>
+
+
+        </body>
